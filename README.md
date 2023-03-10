@@ -1,5 +1,7 @@
 # James Webb Space Telescope Image Browser
 
+A personal project to explore and learn the Svelte framework, along with Tailwind CSS for styles
+
 ### Built with;
 
 - Svelte with SvelteKit
